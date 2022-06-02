@@ -1,0 +1,3 @@
+[submodule "lib/sx12XX"]
+	path = lib/sx12XX
+	url = https://github.com/StuartsProjects/SX12XX-LoRa
