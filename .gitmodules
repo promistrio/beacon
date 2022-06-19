@@ -1,3 +1,9 @@
 [submodule "lib/sx12XX"]
 	path = lib/sx12XX
 	url = https://github.com/StuartsProjects/SX12XX-LoRa
+[submodule "lib/gps"]
+	path = lib/gps
+	url = git@github.com:mikalhart/TinyGPSPlus.git
+[submodule "lib/json"]
+	path = lib/json
+	url = git@github.com:bblanchon/ArduinoJson.git
