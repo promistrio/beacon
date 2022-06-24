@@ -1,4 +1,4 @@
-#include <SPI.h>                                               //the lora device is SPI based so load the SPI library                                         
+/*#include <SPI.h>                                               //the lora device is SPI based so load the SPI library                                         
 #include <SX126XLT.h>  
 #include "Settings.h"                                          //include the setiings file, frequencies, LoRa settings etc   
 
@@ -149,3 +149,4 @@ void ledFlash(uint16_t flashes, uint16_t delaymS)
     delay(delaymS);
   }
 }
+*/
